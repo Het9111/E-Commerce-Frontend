@@ -1,0 +1,8 @@
+.bar{
+    width: 50%;
+    position:absolute;
+    margin: auto;
+    left:25%;
+    text-align: center;
+    font-size: 18px;
+}
